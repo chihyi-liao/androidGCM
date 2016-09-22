@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "947555832598",
+    "project_id": "androidgcm-1377"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947555832598:android:dec90724abae3341",
+        "android_client_info": {
+          "package_name": "com.softsnail.androidgcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDepT_4FRuJk3pDV3xhfDI8bBeSRTQgiXk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
